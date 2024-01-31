@@ -28,7 +28,7 @@
 
 # Delphi compiler-generated binaries (safe to delete)
 Win32/
-Arquivo/
+arquivos/
 *.exe
 *.dll
 *.bpl
